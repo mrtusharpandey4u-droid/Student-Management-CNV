@@ -1,0 +1,6 @@
+{
+  "name": "Student Registration & Result Management System",
+  "description": "Institutional student enrollment, marks evaluation, automated grade calculation, and official marksheet generator with local storage persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
