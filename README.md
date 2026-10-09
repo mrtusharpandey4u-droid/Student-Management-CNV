@@ -2,9 +2,6 @@
 
 An institutional-grade, responsive academic evaluation portal built with **React**, **TypeScript**, and **Tailwind CSS**. This system enables educational administrators and faculty to register students, record and validate subject examination scores in real-time, compute academic grades, generate official printable transcripts, and manage records with browser Local Storage and multi-format data interchange (Excel, PDF, CSV, and JSON).
 
-**Author:** [Tushar Pandey](mailto:mr.tusharpandey4u@gmail.com)  
-**Live Demo:** [Open Application](https://ais-pre-nu62bajqhls3dmzwicwoe4-703937557985.asia-southeast1.run.app)  
-**License:** MIT  
 
 ---
 
